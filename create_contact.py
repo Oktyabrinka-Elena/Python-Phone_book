@@ -14,3 +14,17 @@ def get_info ():
     Comment = input('Укажите комментарий: ')
     info.append(Comment)
     return [Last_Name, Name, phone_number, Comment]
+
+
+    
+# from os.path 
+# from create_csv import creating
+# from write_csv import writing_scv
+
+# path = 'Phonebook.csv'
+# valid = exists(path)
+# if not valid:
+#     creating()
+
+# writing_scv()
+
